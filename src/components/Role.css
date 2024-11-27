@@ -1,0 +1,41 @@
+/* Admin Dashboard */
+.admin-dashboard-container {
+    padding: 40px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .admin-dashboard-container h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Instructor Dashboard */
+  .instructor-dashboard-container {
+    padding: 40px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .instructor-dashboard-container h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Student Dashboard */
+  .student-dashboard-container {
+    padding: 40px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .student-dashboard-container h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+  }
